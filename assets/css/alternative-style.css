@@ -36,6 +36,8 @@ header p {
   color: white; 
 }
 
+
+
 /* .myButton {
     background-color:#1b53b3 ;
     -moz-border-radius:5px;
@@ -115,6 +117,44 @@ ul.program-papers li {
   font-weight: bold;
   margin-top: 6pt;
 }
+
+footer {
+  margin-top: -50px;
+  width:650px;
+}
+
+
+#footerbanner {
+  height:100px;
+  background:url("../images/cropped-steve-shreve.jpg");
+  background-position: center -60px;
+  opacity:.1;
+  background-repeat: no-repeat;
+}
+
+#ackline {
+  font-size: x-large;
+  font-weight: bold;
+  line-height: 150%;
+  margin-top: -48pt;
+  text-align: center;
+}
+
+#logo-refs-wrapper {
+  margin-top: 40px;
+  display-style: block;
+}
+
+#logo-refs-wrapper .logo-ref {
+  float:left;
+  margin: 20px 15px;
+  padding: 0px;
+}
+
+#logo-refs-wrapper img {
+  width:180px;
+}
+
 
 @media print, screen and (max-width: 720px) {
   #banner {

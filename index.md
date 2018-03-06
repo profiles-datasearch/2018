@@ -213,5 +213,3 @@ Paper presentation
 
 {% include_relative organizers.md %}
 
-<img src="assets/images/cropped-steve-shreve.jpg" style="opacity:.2"/>
-
