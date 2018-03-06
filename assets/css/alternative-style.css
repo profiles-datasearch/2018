@@ -14,9 +14,13 @@ body {
 }
 
 header {
-  background: url(../images/cropped-steve-shreve.jpg) #ffffff; 
-  height: 150px;
+  background: url(../images/cropped-steve-shreve.jpg) #020200; 
+  background-position: right -140px;
+  background-repeat: repeat-x;
+  height: 120px;
+  text-align: center;
 }
+
 
 #banner {
   top: 163px; 
@@ -84,14 +88,28 @@ header h1 {
  font-family: Verdana, sans-serif;
 }
 
-/*
-header p {
-  color: #d8d8d8;
-  text-shadow:rgba(#000, 0.2) 0 1px 0;
-  font-size: 18px;
-  margin: 0px;
+#title-wrapper {
+  display:inline-block;
 }
-*/
+
+#title-wrapper img {
+  height: 70pt;
+  float: left;
+  margin-left: -20px;
+}
+
+#title-wrapper p {
+  width:400px;
+  float:left;
+  text-align:left;
+  font-size:xx-large;
+  line-height:110%;
+  margin-left:9pt;
+  margin-top:-5px;
+}
+
+#timeandplace{ margin-top:12pt; }
+
 
 td.timespan {
   width:68pt;
