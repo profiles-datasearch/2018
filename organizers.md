@@ -1,4 +1,4 @@
-# [](#programm-committee) Program Committee
+## [](#programm-committee) Program Committee
 
 *  Charlie Abela (University of Malta)
 *  Alessandro Adamou (The Insight Centre, Ireland)
@@ -34,7 +34,7 @@
 *  Ran Yu (L3S Research Center, Germany)
 
 
-# [](#organizers) Organization Committee
+## [](#organizers) Organization Committee
 
 **[Laura Koesten](https://theodi.org/team/laura-koesten)**, *Open Data Institute* and *University of Southampton*.
 
