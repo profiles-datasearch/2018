@@ -194,7 +194,7 @@ Paper presentation
 <td style="vertical-align: top;"><span class="timespan">15:40 – 15:55</span></td><td> 
 Paper presentation 
     <ul class="program-papers">
-		 <li> Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap <br/> <strong>Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements </strong> (15:40-15:55) (Short paper)</li>
+		 <li> Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap <br/> <strong>Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements </strong> <br> (15:40-15:55) (Short paper)</li>
 	</ul>
 </td>
 </tr>
