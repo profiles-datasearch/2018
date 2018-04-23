@@ -71,8 +71,6 @@ The workshop will span a full day, commencing with a keynote and closing with fo
 
 Following an introduction by the organisers, the workshop will be opened by a keynote by a distinguished practitioner who can  give  the participants an overview of recent developments around data search. The rest of the morning will involve paper presentation, questions and discussions. For the afternoon we expect to organise 2 to 4 round tables around topics stemming from statements of interest proposed by the authors of accepted papers. Topics will be published on the website on the day of the workshop, the audience will be invited to join one of the round tables. The day will be wrapped up with a summary of discussions from the roundtables, collecting calls for action for future activities and a short reflection on the workshop.
 
-# [](#chairs)Chairs and Organizers
-
 {% include_relative organizers.md %}
 <img src="assets/images/cropped-steve-shreve.jpg" style="opacity:.2"/>
 
