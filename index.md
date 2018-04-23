@@ -148,13 +148,13 @@ PROFILES & DATA:SEARCH Workshop: 24 April 2018
 <td style="vertical-align: top;"><span class="timespan">11:00 – 12:20</span></td><td> 
 Paper presentations 
     <ul class="program-papers">
-		 <li> Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison <br/> <strong>Generating Schema Labels through Dataset Content Analysis (11:00 - 11:20) </strong></li>
+		 <li> Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison <br/> <strong>Generating Schema Labels through Dataset Content Analysis </strong> (11:00 - 11:20) </li>
 
-		 <li> Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras <br/> <strong>A Discovery and Analysis Engine for Semantic Web (11:20 - 11:40)</strong></li>
+		 <li> Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras <br/> <strong>A Discovery and Analysis Engine for Semantic Web </strong> (11:20 - 11:40)</li>
 
-		 <li> Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov <br/> <strong>Hybrid.AI: A Learning Search Engine for Large-scale Structured Data (11:40 - 12:00)</strong></li>
+		 <li> Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov <br/> <strong>Hybrid.AI: A Learning Search Engine for Large-scale Structured Data </strong> (11:40 - 12:00) </li>
 
-		 <li> Emilia Kacprzak, Laura Koesten, Jeni Tennison and Elena Simperl <br/> <strong>Characterising Dataset Search Queries (12 - 12:15) </strong> (Short paper)  </li>
+		 <li> Emilia Kacprzak, Laura Koesten, Jeni Tennison and Elena Simperl <br/> <strong>Characterising Dataset Search Queries  </strong> (12:00 - 12:15)( Short paper)  </li>
 	</ul>
 </td>
 </tr>
@@ -181,7 +181,7 @@ Paper presentations
 <td style="vertical-align: top;"><span class="timespan">14:40 – 15:00</span></td><td> 
 Paper presentation 
     <ul class="program-papers">
-		 <li> Mohamed Ben Ellefi, Odile Papini, Djamal Merad, Jean-Marc Boi, Jean-Philip Royer, Jérôme Pasquet, Jean-Christophe Sourisseau, Filipe Castro, Mohamad Motasem Nawaf and Pierre Drap <br/> <strong>Cultural Heritage Resources Profiling: Ontology-based Approach (14:40-15:00) </strong></li>
+		 <li> Mohamed Ben Ellefi, Odile Papini, Djamal Merad, Jean-Marc Boi, Jean-Philip Royer, Jérôme Pasquet, Jean-Christophe Sourisseau, Filipe Castro, Mohamad Motasem Nawaf and Pierre Drap <br/> <strong>Cultural Heritage Resources Profiling: Ontology-based Approach </strong> (14:40-15:00) </li>
 	</ul>
 </td>
 </tr>
@@ -194,7 +194,7 @@ Paper presentation
 <td style="vertical-align: top;"><span class="timespan">15:40 – 15:55</span></td><td> 
 Paper presentation 
     <ul class="program-papers">
-		 <li> Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap <br/> <strong>Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements (15:40-15:55)</strong> (Short paper)</li>
+		 <li> Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap <br/> <strong>Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements </strong> (15:40-15:55) (Short paper)</li>
 	</ul>
 </td>
 </tr>
