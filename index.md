@@ -152,7 +152,7 @@ Paper presentations
 
 		 <li> Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras <br/> <strong> <a href="https://dl.acm.org/citation.cfm?id=3191599" >A Discovery and Analysis Engine for Semantic Web </a> </strong> <br> (11:20 - 11:40)</li>
 
-		 <li> Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov <br/> <strong>Hybrid.AI: A Learning Search Engine for Large-scale Structured Data </strong> <br> (11:40 - 12:00) </li>
+		 <li> Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov <br/> <strong> <a href="https://dl.acm.org/citation.cfm?id=3191600" > Hybrid.AI: A Learning Search Engine for Large-scale Structured Data    </a> </strong> <br> (11:40 - 12:00) </li>
 
 		 <li> Emilia Kacprzak, Laura Koesten, Jeni Tennison and Elena Simperl <br/> <strong>  <a href="https://dl.acm.org/citation.cfm?id=3191597" > Characterising Dataset Search Queries   </a></strong> <br> (12:00 - 12:15)( Short paper)  </li>
 	</ul>
@@ -181,7 +181,7 @@ Paper presentations
 <td style="vertical-align: top;"><span class="timespan">14:40 – 15:00</span></td><td> 
 Paper presentation 
     <ul class="program-papers">
-		 <li> Mohamed Ben Ellefi, Odile Papini, Djamal Merad, Jean-Marc Boi, Jean-Philip Royer, Jérôme Pasquet, Jean-Christophe Sourisseau, Filipe Castro, Mohamad Motasem Nawaf and Pierre Drap <br/> <strong>Cultural Heritage Resources Profiling: Ontology-based Approach </strong> (14:40-15:00) </li>
+		 <li> Mohamed Ben Ellefi, Odile Papini, Djamal Merad, Jean-Marc Boi, Jean-Philip Royer, Jérôme Pasquet, Jean-Christophe Sourisseau, Filipe Castro, Mohamad Motasem Nawaf and Pierre Drap <br/> <strong> <a href="https://dl.acm.org/citation.cfm?id=3191598" > Cultural Heritage Resources Profiling: Ontology-based Approach  </a> </strong> (14:40-15:00) </li>
 	</ul>
 </td>
 </tr>
