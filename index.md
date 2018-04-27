@@ -148,7 +148,7 @@ PROFILES & DATA:SEARCH Workshop: 24 April 2018
 <td style="vertical-align: top;"><span class="timespan">11:00 – 12:20</span></td><td> 
 Paper presentations 
     <ul class="program-papers">
-		 <li> Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison <br/> <strong>Generating Schema Labels through Dataset Content Analysis </strong> <br> (11:00 - 11:20) </li>
+		 <li> Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison <br/> <a href="https://dl.acm.org/citation.cfm?id=3191601">Generating Schema Labels through Dataset Content Analysis </a> <strong> </strong> <br> (11:00 - 11:20) </li>
 
 		 <li> Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras <br/> <strong>A Discovery and Analysis Engine for Semantic Web </strong> <br> (11:20 - 11:40)</li>
 
