@@ -154,7 +154,7 @@ Paper presentations
 
 		 <li> Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov <br/> <strong>Hybrid.AI: A Learning Search Engine for Large-scale Structured Data </strong> <br> (11:40 - 12:00) </li>
 
-		 <li> Emilia Kacprzak, Laura Koesten, Jeni Tennison and Elena Simperl <br/> <strong>Characterising Dataset Search Queries  </strong> <br> (12:00 - 12:15)( Short paper)  </li>
+		 <li> Emilia Kacprzak, Laura Koesten, Jeni Tennison and Elena Simperl <br/> <strong>  <a href="https://dl.acm.org/citation.cfm?id=3191597" > Characterising Dataset Search Queries   </a></strong> <br> (12:00 - 12:15)( Short paper)  </li>
 	</ul>
 </td>
 </tr>
