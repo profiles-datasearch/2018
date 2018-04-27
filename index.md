@@ -200,7 +200,7 @@ Paper presentation
 </tr>
 
 <tr>
-<td style="vertical-align: top;"><span class="timespan">15:55 – 16:50</span></td><td> Panel discussion with <a href="http://pgroth.com/">Paul Groth</a>, <a href="http://aidanhogan.com">Aidan Hogan</a>, <a href="https://www.jenitennison.com"> Jeni Tennison</a> and <a href="https://research.google.com/pubs/NatalyaNoy.html"> Natasha Noy </a> </td>
+<td style="vertical-align: top;"><span class="timespan">15:55 – 16:50</span></td><td> Panel discussion with <a href="http://pgroth.com/">Paul Groth</a>, <a href="http://aidanhogan.com">Aidan Hogan</a>, <a href="https://www.jenitennison.com"> Jeni Tennison</a>,  <a href="https://stefandietze.wordpress.com/">Stefan Dietze</a> and <a href="https://research.google.com/pubs/NatalyaNoy.html"> Natasha Noy </a> </td>
 </tr>
 <tr>
 <td><span class="timespan">16:50 – 17:00</span></td><td> Summary of discussions, wrap up</td>
