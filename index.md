@@ -148,9 +148,9 @@ PROFILES & DATA:SEARCH Workshop: 24 April 2018
 <td style="vertical-align: top;"><span class="timespan">11:00 – 12:20</span></td><td> 
 Paper presentations 
     <ul class="program-papers">
-		 <li> Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison <br/> <a href="https://dl.acm.org/citation.cfm?id=3191601">Generating Schema Labels through Dataset Content Analysis </a> <strong> </strong> <br> (11:00 - 11:20) </li>
+		 <li> Zhiyu Chen, Haiyan Jia, Jeff Heflin and Brian Davison <br/> <strong> <a href="https://dl.acm.org/citation.cfm?id=3191601">Generating Schema Labels through Dataset Content Analysis </a>  </strong> <br> (11:00 - 11:20) </li>
 
-		 <li> Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras <br/> <strong>A Discovery and Analysis Engine for Semantic Web </strong> <br> (11:20 - 11:40)</li>
+		 <li> Semih Yumuşak, Andreas Kamilaris, Erdogan Dogdu, Halife Kodaz, Elif Uysal and Riza Emre Aras <br/> <strong> <a href="https://dl.acm.org/citation.cfm?id=3191599" >A Discovery and Analysis Engine for Semantic Web </a> </strong> <br> (11:20 - 11:40)</li>
 
 		 <li> Sean Soderman, Anusha Kola, Maxim Podkorytov, Michel Geyer and Michael Gubanov <br/> <strong>Hybrid.AI: A Learning Search Engine for Large-scale Structured Data </strong> <br> (11:40 - 12:00) </li>
 
@@ -194,7 +194,7 @@ Paper presentation
 <td style="vertical-align: top;"><span class="timespan">15:40 – 15:55</span></td><td> 
 Paper presentation 
     <ul class="program-papers">
-		 <li> Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap <br/> <strong>Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements </strong> <br> (15:40-15:55) (Short paper)</li>
+		 <li> Sebastian Neumaier, Lőrinc Thurnay, Thomas J. Lampoltshammer and Tomáš Knap <br/> <strong> <a href="https://dl.acm.org/citation.cfm?id=3191602"> Search, Filter, Fork, and Link Open Data - The ADEQUATe platform: data- and community-driven quality improvements </a>  </strong> <br> (15:40-15:55) (Short paper)</li>
 	</ul>
 </td>
 </tr>
